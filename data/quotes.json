@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "author": "Socrates",
+    "category": "Philosophy"
+  },
+  {
+    "id": 2,
+    "quote": "I think, therefore I am.",
+    "author": "René Descartes",
+    "category": "Philosophy"
+  },
+  {
+    "id": 3,
+    "quote": "He who has a why to live can bear almost any how.",
+    "author": "Friedrich Nietzsche",
+    "category": "Philosophy"
+  },
+  {
+    "id": 4,
+    "quote": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+    "author": "Marcus Aurelius",
+    "category": "Philosophy"
+  },
+  {
+    "id": 5,
+    "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Aristotle",
+    "category": "Philosophy"
+  },
+  {
+    "id": 6,
+    "quote": "An unexamined life is not worth living.",
+    "author": "Socrates",
+    "category": "Philosophy"
+  },
+  {
+    "id": 7,
+    "quote": "Happiness is not an ideal of reason, but of imagination.",
+    "author": "Immanuel Kant",
+    "category": "Philosophy"
+  },
+  {
+    "id": 8,
+    "quote": "Man is condemned to be free; because once thrown into the world, he is responsible for everything he does.",
+    "author": "Jean-Paul Sartre",
+    "category": "Philosophy"
+  },
+  {
+    "id": 9,
+    "quote": "The unexamined life is not worth living, but the unlived life is not worth examining.",
+    "author": "Plato",
+    "category": "Philosophy"
+  },
+  {
+    "id": 10,
+    "quote": "It is not death that a man should fear, but he should fear never beginning to live.",
+    "author": "Marcus Aurelius",
+    "category": "Philosophy"
+  },
+  {
+    "id": 11,
+    "quote": "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
+    "author": "Albert Einstein",
+    "category": "Science"
+  },
+  {
+    "id": 12,
+    "quote": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+    "author": "Marie Curie",
+    "category": "Science"
+  },
+  {
+    "id": 13,
+    "quote": "If I have seen further it is by standing on the shoulders of Giants.",
+    "author": "Isaac Newton",
+    "category": "Science"
+  },
+  {
+    "id": 14,
+    "quote": "Somewhere, something incredible is waiting to be known.",
+    "author": "Carl Sagan",
+    "category": "Science"
+  },
+  {
+    "id": 15,
+    "quote": "Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.",
+    "author": "Stephen Hawking",
+    "category": "Science"
+  },
+  {
+    "id": 16,
+    "quote": "The good thing about science is that it's true whether or not you believe in it.",
+    "author": "Neil deGrasse Tyson",
+    "category": "Science"
+  },
+  {
+    "id": 17,
+    "quote": "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.",
+    "author": "Charles Darwin",
+    "category": "Science"
+  },
+  {
+    "id": 18,
+    "quote": "Science is a way of thinking much more than it is a body of knowledge.",
+    "author": "Carl Sagan",
+    "category": "Science"
+  },
+  {
+    "id": 19,
+    "quote": "The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true art and true science.",
+    "author": "Albert Einstein",
+    "category": "Science"
+  },
+  {
+    "id": 20,
+    "quote": "Equipped with his five senses, man explores the universe around him and calls the adventure Science.",
+    "author": "Edwin Powell Hubble",
+    "category": "Science"
+  },
+  {
+    "id": 21,
+    "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+    "author": "Ralph Waldo Emerson",
+    "category": "Literature"
+  },
+  {
+    "id": 22,
+    "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+    "author": "Jane Austen",
+    "category": "Literature"
+  },
+  {
+    "id": 23,
+    "quote": "Not all those who wander are lost.",
+    "author": "J.R.R. Tolkien",
+    "category": "Literature"
+  },
+  {
+    "id": 24,
+    "quote": "To be, or not to be, that is the question.",
+    "author": "William Shakespeare",
+    "category": "Literature"
+  },
+  {
+    "id": 25,
+    "quote": "There is no friend as loyal as a book.",
+    "author": "Ernest Hemingway",
+    "category": "Literature"
+  },
+  {
+    "id": 26,
+    "quote": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+    "author": "F. Scott Fitzgerald",
+    "category": "Literature"
+  },
+  {
+    "id": 27,
+    "quote": "Whatever our souls are made of, his and mine are the same.",
+    "author": "Emily Brontë",
+    "category": "Literature"
+  },
+  {
+    "id": 28,
+    "quote": "It was the best of times, it was the worst of times.",
+    "author": "Charles Dickens",
+    "category": "Literature"
+  },
+  {
+    "id": 29,
+    "quote": "All that is gold does not glitter, not all those who wander are lost.",
+    "author": "J.R.R. Tolkien",
+    "category": "Literature"
+  },
+  {
+    "id": 30,
+    "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+    "author": "Dylan Thomas",
+    "category": "Literature"
+  },
+  {
+    "id": 31,
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela",
+    "category": "Leadership"
+  },
+  {
+    "id": 32,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "Leadership"
+  },
+  {
+    "id": 33,
+    "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+    "author": "Abraham Lincoln",
+    "category": "Leadership"
+  },
+  {
+    "id": 34,
+    "quote": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "category": "Leadership"
+  },
+  {
+    "id": 35,
+    "quote": "A leader is one who knows the way, goes the way, and shows the way.",
+    "author": "John C. Maxwell",
+    "category": "Leadership"
+  },
+  {
+    "id": 36,
+    "quote": "Do not follow where the path may lead. Go instead where there is no path and leave a trail.",
+    "author": "Ralph Waldo Emerson",
+    "category": "Leadership"
+  },
+  {
+    "id": 37,
+    "quote": "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.",
+    "author": "Martin Luther King Jr.",
+    "category": "Leadership"
+  },
+  {
+    "id": 38,
+    "quote": "Never give in, never give in, never, never, never, never—in nothing, great or small, large or petty—never give in except to convictions of honor and good sense.",
+    "author": "Winston Churchill",
+    "category": "Leadership"
+  },
+  {
+    "id": 39,
+    "quote": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
+    "author": "Abraham Lincoln",
+    "category": "Leadership"
+  },
+  {
+    "id": 40,
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "category": "Leadership"
+  },
+  {
+    "id": 41,
+    "quote": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "category": "Art & Creativity"
+  },
+  {
+    "id": 42,
+    "quote": "Every child is an artist. The problem is how to remain an artist once he grows up.",
+    "author": "Pablo Picasso",
+    "category": "Art & Creativity"
+  },
+  {
+    "id": 43,
+    "quote": "If you hear a voice within you say 'you cannot paint,' then by all means paint, and that voice will be silenced.",
+    "author": "Vincent van Gogh",
+    "category": "Art & Creativity"
+  },
+  {
+    "id": 44,
+    "quote": "Creativity is intelligence having fun.",
+    "author": "Albert Einstein",
+    "category": "Art & Creativity"
+  },
+  {
+    "id": 45,
+    "quote": "Art enables us to find ourselves and lose ourselves at the same time.",
+    "author": "Thomas Merton",
+    "category": "Art & Creativity"
+  },
+  {
+    "id": 46,
+    "quote": "The principles of true art is not to portray, but to evoke.",
+    "author": "Jerzy Kosinski",
+    "category": "Art & Creativity"
+  },
+  {
+    "id": 47,
+    "quote": "Have no fear of perfection - you'll never reach it.",
+    "author": "Salvador Dalí",
+    "category": "Art & Creativity"
+  },
+  {
+    "id": 48,
+    "quote": "Art washes away from the soul the dust of everyday life.",
+    "author": "Pablo Picasso",
+    "category": "Art & Creativity"
+  },
+  {
+    "id": 49,
+    "quote": "Great things are done by a series of small things brought together.",
+    "author": "Vincent van Gogh",
+    "category": "Art & Creativity"
+  },
+  {
+    "id": 50,
+    "quote": "Learning never exhausts the mind.",
+    "author": "Leonardo da Vinci",
+    "category": "Art & Creativity"
+  },
+  {
+    "id": 51,
+    "quote": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "category": "Motivation"
+  },
+  {
+    "id": 52,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "Motivation"
+  },
+  {
+    "id": 53,
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "category": "Motivation"
+  },
+  {
+    "id": 54,
+    "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Ralph Waldo Emerson",
+    "category": "Motivation"
+  },
+  {
+    "id": 55,
+    "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "Motivation"
+  },
+  {
+    "id": 56,
+    "quote": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+    "author": "Walt Whitman",
+    "category": "Motivation"
+  },
+  {
+    "id": 57,
+    "quote": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe",
+    "category": "Motivation"
+  },
+  {
+    "id": 58,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "Motivation"
+  },
+  {
+    "id": 59,
+    "quote": "Hardships often prepare ordinary people for an extraordinary destiny.",
+    "author": "C.S. Lewis",
+    "category": "Motivation"
+  },
+  {
+    "id": 60,
+    "quote": "Although the world is full of suffering, it is also full of the overcoming of it.",
+    "author": "Helen Keller",
+    "category": "Motivation"
+  },
+  {
+    "id": 61,
+    "quote": "Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power.",
+    "author": "Lao Tzu",
+    "category": "Wisdom"
+  },
+  {
+    "id": 62,
+    "quote": "Silence is a source of great strength.",
+    "author": "Lao Tzu",
+    "category": "Wisdom"
+  },
+  {
+    "id": 63,
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "category": "Wisdom"
+  },
+  {
+    "id": 64,
+    "quote": "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.",
+    "author": "Confucius",
+    "category": "Wisdom"
+  },
+  {
+    "id": 65,
+    "quote": "Patience is bitter, but its fruit is sweet.",
+    "author": "Jean-Jacques Rousseau",
+    "category": "Wisdom"
+  },
+  {
+    "id": 66,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "Wisdom"
+  },
+  {
+    "id": 67,
+    "quote": "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
+    "author": "Bruce Lee",
+    "category": "Wisdom"
+  },
+  {
+    "id": 68,
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "Wisdom"
+  },
+  {
+    "id": 69,
+    "quote": "Wisdom begins in wonder.",
+    "author": "Socrates",
+    "category": "Wisdom"
+  },
+  {
+    "id": 70,
+    "quote": "He that can have patience can have what he will.",
+    "author": "Benjamin Franklin",
+    "category": "Wisdom"
+  },
+  {
+    "id": 71,
+    "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+    "author": "Albert Einstein",
+    "category": "Humor"
+  },
+  {
+    "id": 72,
+    "quote": "I am so clever that sometimes I don't understand a single word of what I am saying.",
+    "author": "Oscar Wilde",
+    "category": "Humor"
+  },
+  {
+    "id": 73,
+    "quote": "Better to remain silent and be thought a fool than to speak out and remove all doubt.",
+    "author": "Mark Twain",
+    "category": "Humor"
+  },
+  {
+    "id": 74,
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "Humor"
+  },
+  {
+    "id": 75,
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "author": "Thomas Jefferson",
+    "category": "Humor"
+  },
+  {
+    "id": 76,
+    "quote": "I refuse to join any club that would have me as a member.",
+    "author": "Groucho Marx",
+    "category": "Humor"
+  },
+  {
+    "id": 77,
+    "quote": "Life is what happens to you while you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "Humor"
+  },
+  {
+    "id": 78,
+    "quote": "A day without laughter is a day wasted.",
+    "author": "Charlie Chaplin",
+    "category": "Humor"
+  },
+  {
+    "id": 79,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "Humor"
+  },
+  {
+    "id": 80,
+    "quote": "I can resist everything except temptation.",
+    "author": "Oscar Wilde",
+    "category": "Humor"
+  },
+  {
+    "id": 81,
+    "quote": "The people who are crazy enough to think they can change the world are the ones who do.",
+    "author": "Steve Jobs",
+    "category": "Technology"
+  },
+  {
+    "id": 82,
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "Technology"
+  },
+  {
+    "id": 83,
+    "quote": "Any sufficiently advanced technology is indistinguishable from magic.",
+    "author": "Arthur C. Clarke",
+    "category": "Technology"
+  },
+  {
+    "id": 84,
+    "quote": "Sometimes it is the people no one can imagine anything of who do the things that no one can imagine.",
+    "author": "Alan Turing",
+    "category": "Technology"
+  },
+  {
+    "id": 85,
+    "quote": "The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life.",
+    "author": "Bill Gates",
+    "category": "Technology"
+  },
+  {
+    "id": 86,
+    "quote": "It has become appallingly obvious that our technology has exceeded our humanity.",
+    "author": "Albert Einstein",
+    "category": "Technology"
+  },
+  {
+    "id": 87,
+    "quote": "Technology is best when it brings people together.",
+    "author": "Matt Mullenweg",
+    "category": "Technology"
+  },
+  {
+    "id": 88,
+    "quote": "The most dangerous phrase in the language is: 'We've always done it this way.'",
+    "author": "Grace Hopper",
+    "category": "Technology"
+  },
+  {
+    "id": 89,
+    "quote": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs",
+    "category": "Technology"
+  },
+  {
+    "id": 90,
+    "quote": "Machines take me by surprise with great frequency.",
+    "author": "Alan Turing",
+    "category": "Technology"
+  },
+  {
+    "id": 91,
+    "quote": "You will face many defeats in life, but never let yourself be defeated.",
+    "author": "Maya Angelou",
+    "category": "Life"
+  },
+  {
+    "id": 92,
+    "quote": "Life is really simple, but we insist on making it complicated.",
+    "author": "Confucius",
+    "category": "Life"
+  },
+  {
+    "id": 93,
+    "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+    "author": "Robert Frost",
+    "category": "Life"
+  },
+  {
+    "id": 94,
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "category": "Life"
+  },
+  {
+    "id": 95,
+    "quote": "Go confidently in the direction of your dreams! Live the life you've imagined.",
+    "author": "Henry David Thoreau",
+    "category": "Life"
+  },
+  {
+    "id": 96,
+    "quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+    "author": "Mother Teresa",
+    "category": "Life"
+  },
+  {
+    "id": 97,
+    "quote": "Tell me, what is it you plan to do with your one wild and precious life?",
+    "author": "Mary Oliver",
+    "category": "Life"
+  },
+  {
+    "id": 98,
+    "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "author": "Maya Angelou",
+    "category": "Life"
+  },
+  {
+    "id": 99,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "Life"
+  },
+  {
+    "id": 100,
+    "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+    "author": "George Bernard Shaw",
+    "category": "Life"
+  }
+]
